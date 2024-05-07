@@ -1,9 +1,9 @@
-c<h2 align="left">Hi 👋! My name is YOUSSEF CHBILY. and I'm a Student at 1337, from Morocco</h2>
+<h2 align="left">Hi 👋! My name is YOUSSEF CHBILY. and I'm a Student at 1337, from Morocco</h2>
 
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarouanDoulahiane.MarouanDoulahiane&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YoussefChbily.YoussefChbily&"  />
 </div>
 
 ###
@@ -12,9 +12,9 @@ c<h2 align="left">Hi 👋! My name is YOUSSEF CHBILY. and I'm a Student at 1337,
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarouanDoulahiane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MarouanDoulahiane&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarouanDoulahiane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefChbily&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=YoussefChbily&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefChbily&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -63,10 +63,10 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
   <a href="https://www.instagram.com/lpipx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:marouandoulahiane@gmail.com" target="_blank">
+  <a href="mailto:ychbily@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/marouan-doulahiane" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/doulahiane" target="_blank">
@@ -84,7 +84,7 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/marouandoui"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="marouandoui" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ychbily"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ychbily" /></a></p><br><br>
 
 ****
 ###
