@@ -8,7 +8,7 @@
 
 ###
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mdoulahi" alt="mdoulahi's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ychbily" alt="ychbily's 42 stats" /></a>
 </p>
 
 <div align="center">
