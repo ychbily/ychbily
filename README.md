@@ -3,7 +3,7 @@
 ###
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ychbily.ychbily)
 
-[![<ychbily>'s 42 stats](https://badge.mediaplus.ma/darkblue/<ychbily>)](https://github.com/oakoudad/badge42)
+[![ychbily's 42 stats](https://badge.mediaplus.ma/darkblue/ychbily)](https://github.com/oakoudad/badge42)
 ###
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ychbily" alt="ychbily's 42 stats" /></a>
