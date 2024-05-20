@@ -53,6 +53,9 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
   <a href="https://twitter.com/doulahiane" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <a href="https://discord.com/users/578995820225888266" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</a>
 </div>
 
 ###
