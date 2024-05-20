@@ -74,7 +74,6 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ychbily"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ychbily" /></a></p><br><br>
-
+<p><a href="https://buymeacoffee.com/ychbilyg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ychbily" /></a></p><br><br>
 ****
 ###
