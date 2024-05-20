@@ -41,13 +41,7 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
 - **Concepts:** Sysadmin, Sorting Algorithms ,Signals
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork
 
-## Education
-- **1337 - School 42**
-  - *Expected Graduation: 2024/08/01*
-  - Rigorous and innovative programming curriculum focusing on peer-to-peer learning and practical projects.
-
-
-###
+## Contact
 
 <div align="center">
   <a href="https://www.instagram.com/peace.taker00/" target="_blank">
