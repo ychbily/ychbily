@@ -24,21 +24,14 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
   - *November 2023 - Present*
   - Actively engaged in a rigorous curriculum focused on practical learning and problem-solving.
   - Completed a diverse range of projects covering various domains, including:
-    - [Libft](https://github.com/MarouanDoulahiane/libft): C - Libraries
-    - [get_next_line](https://github.com/MarouanDoulahiane/get_next_line): C - Static variables
-    - [ft_printf](https://github.com/MarouanDoulahiane/ft_printf): C - Variadic functions
+    - [Libft](https://github.com/ychbily/LIBFT): C - Libraries
+    - [get_next_line](https://github.com/ychbily/GET_NEXT_LINE): C - Static variables
+    - [ft_printf](https://github.com/ychbily/FT_PRINTF): C - Variadic functions
     - born2beroot: Sysadmin
-    - [minitalk](https://github.com/MarouanDoulahiane/minitalk): C - Signals
-    - [so_long](https://github.com/MarouanDoulahiane/so_long): C - GameDev
-    - [push_swap](https://github.com/MarouanDoulahiane/push_swap): C - Sorting algorithms and complexity
-    - [Philosophers](https://github.com/MarouanDoulahiane/philosophers): C - Threads and Processes
-    - [minishell](https://github.com/MarouanDoulahiane/minishell): C - Processes and file descriptors
-    - [cub3D](https://github.com/MarouanDoulahiane/Cub3D): C - GameDev using raycasting
-    - [NetPractice](https://github.com/MarouanDoulahiane/Net_Practice_Script): C - Networking
-    - [CPP-Modules](https://github.com/MarouanDoulahiane/CPP_Modules): C++
-    - [ft_irc](https://github.com/omar-xy/IRC_serv): Socket Programming - C++
-    - [inception](https://github.com/MarouanDoulahiane/inception): Docker - Docker-compose
-  - Actively seeking opportunities to further develop and expand my skill set.
+    - [minitalk](https://github.com/ychbily/minitalk): C - Signals
+    - [FDF](https://github.com/ychbily/FDF): C - 3D Wireframe Viewer
+    - [push_swap](https://github.com/ychbily/push_swap): C - Sorting algorithms and complexity
+![Work in Progress](https://img.shields.io/badge/Work%20in%20Progress-Other%20Projects-blue)
 
 ## Skills
 - **Programming Languages:** C, C++
