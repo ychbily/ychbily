@@ -35,9 +35,10 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
 ![Work in Progress](https://img.shields.io/badge/Soon-Other%20Projects-blue)
 
 ## Skills
-- **Programming Languages:** C, C++
-- **Technologies:** Docker, MySQL, Nginx
-- **Concepts:** Networking, Sysadmin, Game Development, Sorting Algorithms
+- **Programming Languages:** C, python
+- **Technologies:** Linux Administration, Keras, TensorFlow
+- - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Concepts:** Sysadmin, Sorting Algorithms ,Signals
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork
 
 ## Education
