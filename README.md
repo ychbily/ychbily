@@ -37,7 +37,7 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
 ## Skills
 - **Programming Languages:** C, python
 - **Technologies:** Linux Administration, Keras, TensorFlow
-- - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Concepts:** Sysadmin, Sorting Algorithms ,Signals
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork
 
