@@ -2,13 +2,10 @@
 
 ###
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ychbily.ychbily)
-<div style="display: flex; justify-content: center;">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ychbily.ychbily" alt="visitors">
-</div>
 
 ###
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ychbily" alt="ychbily's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ychbily" alt="ychbily's 42 stats" /></a>
 </p>
 
 <div align="center">
