@@ -31,6 +31,7 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
     - [minitalk](https://github.com/ychbily/minitalk): C - Signals
     - [FDF](https://github.com/ychbily/FDF): C - 3D Wireframe Viewer
     - [push_swap](https://github.com/ychbily/push_swap): C - Sorting algorithms and complexity
+
 ![Work in Progress](https://img.shields.io/badge/Work%20in%20Progress-Other%20Projects-blue)
 
 ## Skills
