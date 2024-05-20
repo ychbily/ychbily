@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is YOUSSEF CHBILY. and I'm a Student at 1337, from Morocco</h2>
+<h2 align="center">Hi 👋! My name is YOUSSEF CHBILY. and I'm a Student at 1337, from Morocco</h2>
 
 ###
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ychbily.ychbily)
