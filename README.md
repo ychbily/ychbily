@@ -1,8 +1,7 @@
 <h2 align="center">Hi 👋! My name is YOUSSEF CHBILY. and I'm a Student at 1337, from Morocco</h2>
 
 ###
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ychbily.ychbily)
-
+[![Ychbily's 42 stats](https://badge.mediaplus.ma/greenbinary/Ychbily)](https://github.com/oakoudad/badge42)
 ###
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ychbily" alt="ychbily's 42 stats" /></a>
